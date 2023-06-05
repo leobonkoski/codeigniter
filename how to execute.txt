@@ -1,0 +1,11 @@
+1 - Adicionar dentro da pasta htdocs do xampp a pasta raiz do projeto chamda 'codeigniter'
+
+2 - Criar um banco de dados chamado crud_users
+
+3 - Criar a tabela users dentro do banco crud_users utilizando o script chamado users.sql dentro da raiz do projeto
+
+4 - Criar a tabela querylog_tbl dentro do banco crud_users utilizando o script chamado querylog_tbl.sql dentro da raiz do projeto
+
+5 - Acessar a aplicação através do endereço http://localhost/codeigniter/login
+
+
