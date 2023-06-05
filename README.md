@@ -14,9 +14,6 @@
 
 - [Guias de instalação e execução do projeto](#guia_instalacao)
 
-- [Resultados alcançados com o projeto](#resultados_alcancados)
-
-- [Desenvolvedores](#desenvolvedores)
 
 <a id="descrição-do-projeto"></a>
 
